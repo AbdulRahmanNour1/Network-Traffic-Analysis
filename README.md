@@ -3,7 +3,7 @@
 To Identify different types of traffic with protocols and ports, We gotta use filters.
 
 **HTTP Request**  
-![HTTP Request](Pasted%20image%2020250812012709.png)
+![HTTP Request](images/Pasted%20image%2020250812012709.png)
 
 **What that means??**  
 We can see 5 layers in the lower-left square, which follows TCP/IP model:
@@ -19,10 +19,10 @@ We can see 5 layers in the lower-left square, which follows TCP/IP model:
     This is the content of the packet.
 
 **HTTPS**  
-![HTTPS](Pasted%20image%2020250823172040.png)
+![HTTPS](images/Pasted%20image%2020250823172040.png)
 
 **HTTP, DNS**  
-![HTTP and DNS](Pasted%20image%2020250802173632.png)  
+![HTTP and DNS](images/Pasted%20image%2020250802173632.png)  
 *The "or" allows us to check packets using either HTTP or DNS protocol*
 
 ##### Spotting unusual or suspicious traffic:
@@ -38,7 +38,7 @@ We can see 5 layers in the lower-left square, which follows TCP/IP model:
 Luckily, There is an option called Expert Information (Analyze -> Expert Information) which detects severity with summaries, very useful with experience to save time (Not all severities are dangerous, some are just warnings).
 
 **Massive DOS Attack with entropy**  
-![DOS Attack](Pasted%20image%2020250823175040.png)
+![DOS Attack](images/Pasted%20image%2020250823175040.png)
 
 ---
 
